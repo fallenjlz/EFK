@@ -1,0 +1,7 @@
+[all]
+172.19.0.36
+172.19.0.19
+172.19.0.14
+[all:vars]
+ansible_ssh_user=root
+ansible_ssh_pass=Cancel@123
